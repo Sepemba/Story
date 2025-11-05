@@ -1,0 +1,14 @@
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+
+# Rascunhos da história
+rascunhos/
+versoes-antigas/
+
+# Arquivos pessoais
+minhas-anotacoes.txt
